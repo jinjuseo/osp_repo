@@ -1,3 +1,3 @@
-git text
+2nd modified from branch2
 1st modified from branch1
 github modifying
